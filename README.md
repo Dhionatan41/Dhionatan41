@@ -17,5 +17,5 @@
 Cursando Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia, educação e espero mudar a vidas das pessoas através da programação.
 
 ## Contato : 
-- [ E-mail para contato] (dhiow04@gmail.com)</div>
+-  E-mail para contato (dhiow04@gmail.com) 
 
